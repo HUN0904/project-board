@@ -1,6 +1,6 @@
 package com.example.projectboard.config;
 
-import com.example.projectboard.security.BoardPrincipal;
+import com.example.projectboard.dto.security.BoardPrincipal;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.domain.AuditorAware;

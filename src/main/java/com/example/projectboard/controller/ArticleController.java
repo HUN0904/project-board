@@ -5,7 +5,7 @@ import com.example.projectboard.domain.constant.SearchType;
 import com.example.projectboard.dto.request.ArticleRequest;
 import com.example.projectboard.response.ArticleResponse;
 import com.example.projectboard.response.ArticleWithCommentsResponse;
-import com.example.projectboard.security.BoardPrincipal;
+import com.example.projectboard.dto.security.BoardPrincipal;
 import com.example.projectboard.service.ArticleService;
 import com.example.projectboard.service.PaginationService;
 import lombok.RequiredArgsConstructor;
